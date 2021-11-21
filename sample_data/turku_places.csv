@@ -1,0 +1,20 @@
+id,event_name,event_type,time,address,latitude,longitude
+0,Voimistelu,Workout,22.11.21 17:30," ""Siutlankatu 1 20380 Turku""",60.47348611,22.31019611
+1,Sibelius - The One And Only,Exhibition,25.11.21 18:00,"Piispankatu 17, Turku",60.45385709,22.27754887
+2,Club Rococo,Theater,12.12.21 11:00,"Linnankatu 80, Turku",60.43536617,22.2296663
+3,KULLERVO,Theater,13.12.21 11:00,"Itäinen Rantak. 14, 20100 Turku",60.44621699,22.26319286
+4,Patricia Domínguez’s Green Irises,Exhibition,29.11.21 10:00,"Itäinen Rantakatu 38, Turku",60.44504963,22.26036613
+5,Sauvakavely,Sport,27.11.21 19:30,"Halinen Kalaportaat, 20540 Turku",60.46514788,22.30636541
+6,Sauvakavely,Sport,26.11.21 18:00,"Hiihtomajanpolku Lauste, 20750 Turku",60.42911298,22.34417174
+7,Polkujuoksu,Sport,23.11.21 18:00,"Paimalantie 362, 20460 Turku",60.52053376,22.34837666
+8,Swimming,Sport,23.11.21 20:00,"Littoistenjärventie 153, 20660 Littoinen",60.46193314,22.37829815
+9,"Expansive space home to sports fields, a swimming pool & kids areas, including an adventure park",Sport,22.11.21 20:15,"Kupittaan Puisto, 20520 Turku",60.44569343,22.28890148
+10,Finnbingo,Club,21.11.21 15:00,"Eerikinkatu 20, 20100 Turku",60.44932251,22.26319577
+11,Kirjakahvila,Hobby,24.11.21 12:00,"Vanha Suurtori 3, 20500 Turku",60.45044474,22.27553721
+12,Voimistelu,Workout,19.12.21 9:15," ""Siutlankatu 1 20380 Turku""",60.47348611,22.31019611
+13,SatamaCenter Sauna,Sauna,20.11.21 18:00," "Huolintakatu 5 20200 Turku",60.44461927055852, 22.2206206122172
+14,Handicraft circle,Club,"26.11.21 14:00","Vanha Suurtori 3 20500 Turku",60.45072818196329,22.275811794941138
+15,Joulumarkkinat,Event,"28.11.21 11:00","Vanha Suurtori 3, 20500 Turku",60.45072818196329,22.275811794941138
+16,Digiopastaja,Education,"28.11.21 10:00","Lehirannantie 12 25170 Turku",60.29730612913191,23.083382090576382
+17,Valon polku,Event,"03.12.21 15:00","Teininkuja 6 20700 Turku",60.44795187241723,22.274905292507587
+18,Chess quick games,Club,"01.12.21 19:00","Ruiskatu 8, 20740 Turku",60.42994232783983,22.296502795497233
