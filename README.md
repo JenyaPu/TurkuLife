@@ -15,4 +15,4 @@ On the map we show the information on the upcoming events and venues. Hovering m
 
 Note: you need to input your google maps API key into 'key' file next to the script. For more information on Google maps API: https://developers.google.com/maps/documentation/geocoding/get-api-key
 
-![alt text](TurkuLife.png)
+![TurkuGLife](TurkuLife.png)
